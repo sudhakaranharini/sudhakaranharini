@@ -21,7 +21,7 @@ A passionate web development student from India, currently learning:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harinisudhakaran/)
 
 ## 🌟 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?sudhakaranharini&layout=compact&theme=radical) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhakaranharini&layout=compact&theme=radical) 
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sudhakaranharini&theme=radical)
