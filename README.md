@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Harini S! 👋
 
-<!--
-**sudhakaranharini/sudhakaranharini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+A passionate web development student from India, currently learning:
+- HTML
+- CSS
+- JavaScript
+- Java
+- C
+- C++
+- DBMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- *Frontend Development:* HTML, CSS, JavaScript
+- *Backend Development:* Java, C, C++
+- *Database Management:* DBMS
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harinisudhakaran/)
+
+## 🌟 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical) 
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical)
+
+
+
+![Footer](https://via.placeholder.com/1200x100.png?text=Thanks+for+visiting!&color=8a2be2)
+
+
+
